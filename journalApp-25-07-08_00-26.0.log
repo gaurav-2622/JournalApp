@@ -1,0 +1,3 @@
+25-07-08 00:26:44.971 [http-nio-8080-exec-5] ERROR n.e.journalApp.service.UserService - Error occured for hero
+25-07-08 00:26:44.974 [http-nio-8080-exec-5] INFO  n.e.journalApp.service.UserService - Error occured for hero
+25-07-08 00:26:44.974 [http-nio-8080-exec-5] WARN  n.e.journalApp.service.UserService - Error occured for hero
